@@ -1,8 +1,8 @@
 <?php
 
-namespace DarkN3ss\AdvertisingKick;
+namespace MakerbakerYT\AdvertisingKick;
 
-use DevTools\commands\ExtractPluginCommand;
+use MakerbakerYT\commands\ExtractPluginCommand;
 use FolderPluginLoader\FolderPluginLoader;
 use pocketmine\command\Command;
 use pocketmine\command\CommandExecutor;
