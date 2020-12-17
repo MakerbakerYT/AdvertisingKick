@@ -1,5 +1,5 @@
 <?php
-namespace MakerbakerYT\AdvertisingKick;
+namespace MakerbakerYT;
 
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerChatEvent;
