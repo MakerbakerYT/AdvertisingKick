@@ -1,6 +1,6 @@
 <?php
 
-namespace MakerbakerYT\AdvertisingKick;
+namespace MakerbakerYT;
 
 use MakerbakerYT\commands\ExtractPluginCommand;
 use FolderPluginLoader\FolderPluginLoader;
